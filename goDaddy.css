@@ -401,6 +401,12 @@ button:active, button.pressed {
     overflow: hidden;
     position: relative;
 }
+#success-six {
+    background-image: url('goDaddy files/pexels-karolina-grabowska-4968633.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
 .success-img > img {
     width: 100%;
     height: 100%;
@@ -973,3 +979,4 @@ footer hr {
     }
 
 }
+
