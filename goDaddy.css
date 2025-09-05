@@ -3,19 +3,19 @@
 }
 @font-face {
     font-family: 'inter';
-    src: url('Inter-Regular.woff') format('woff');
+    src: url('goDaddy files/Inter-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'playfair';
-    src: url('PlayfairDisplay-Regular.woff') format('woff');
+    src: url('goDaddy files/PlayfairDisplay-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'montserrat';
-    src: url('Montserrat-Bold.woff') format('woff');
+    src: url('goDaddy files/Montserrat-Bold.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -247,7 +247,7 @@ main {
     height: 350px;
 }
 #tooly-one {
-    background-image: url('dada_design-7nKhdcYHHgY-unsplash.jpg');
+    background-image: url('goDaddy files/dada_design-7nKhdcYHHgY-unsplash.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -411,7 +411,7 @@ button:active, button.pressed {
     grid-column: 2;
 }
 .suc2 {
-    background-image: url('intl-img-bl-prod-feature-get-online-fast-portrait.jpg');
+    background-image: url('goDaddy files/intl-img-bl-prod-feature-get-online-fast-portrait.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -456,14 +456,14 @@ button:active, button.pressed {
     margin-bottom: 10px;
 }
 .snowly {
-    background-image: url('pexels-kasuma-908644.jpg');
+    background-image: url('goDaddy files/pexels-kasuma-908644.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     position: relative;
 }
 #snow-one {
-    background-image: url('pexels-didsss-1741540.jpg');
+    background-image: url('goDaddy files/pexels-didsss-1741540.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -485,7 +485,7 @@ button:active, button.pressed {
     border-radius: 10px;
     top: 25%;
     right: -5px;
-    background-image: url('pexels-fede-roveda-1461538-3605139.jpg');
+    background-image: url('goDaddy files/pexels-fede-roveda-1461538-3605139.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -552,49 +552,49 @@ button:active, button.pressed {
     transition:all 0.3s ease;
 }
 .first {
-    background-image: url('gian-paolo-aliatis--AfflhhVVuA-unsplash.jpg');
+    background-image: url('goDaddy files/gian-paolo-aliatis--AfflhhVVuA-unsplash.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     position: relative;
 }
 .second {
-    background-image: url('kam-idris-_HqHX3LBN18-unsplash.jpg');
+    background-image: url('goDaddy files/kam-idris-_HqHX3LBN18-unsplash.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     position: relative;
 }
 .third {
-    background-image: url('mohid-tahir-BHThOmX0yGs-unsplash.jpg');
+    background-image: url('goDaddy files/mohid-tahir-BHThOmX0yGs-unsplash.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     position: relative;
 }
 .fourth {
-    background-image: url('sarah-khan-8MJqNBSymRE-unsplash.jpg');
+    background-image: url('goDaddy files/sarah-khan-8MJqNBSymRE-unsplash.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     position: relative;
 }
 .fifth {
-    background-image: url('spacejoy-9M66C_w_ToM-unsplash.jpg');
+    background-image: url('goDaddy files/spacejoy-9M66C_w_ToM-unsplash.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     position: relative;
 }
 .sixth {
-    background-image: url('spacejoy-IH7wPsjwomc-unsplash.jpg');
+    background-image: url('goDaddy files/spacejoy-IH7wPsjwomc-unsplash.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     position: relative;
 }
 .seventh {
-    background-image: url('toa-heftiba-niVJaN5AMjs-unsplash.jpg');
+    background-image: url('goDaddy files/toa-heftiba-niVJaN5AMjs-unsplash.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -971,4 +971,5 @@ footer hr {
         width: 330px;
         height: 170px;
     }
+
 }
